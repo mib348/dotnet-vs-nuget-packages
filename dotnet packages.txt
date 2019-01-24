@@ -1,0 +1,4 @@
+dotnet add package Microsoft.EntityFrameworkCore.Tools.DotNet
+
+dotnet add package Microsoft.Watcher.Tools.DotNet
+
